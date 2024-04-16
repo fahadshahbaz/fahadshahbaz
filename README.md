@@ -4,10 +4,11 @@ Hi 👋 I am Fahad
  Shahbaz
 ==============================
 
-Front-End Developer
+React JS Developer
 -------------------
 
-As a frontend developer, I'm passionate about creating visually stunning and seamlessly functional websites. Through my dedication to learning from online resources, I continually work to enhance my skills, always seeking improvement and growth. With each project I undertake, I strive to deliver an exceptional user experience.
+As a React.js frontend developer, I specialize in sculpting seamless digital experiences. Armed with JavaScript and TailwindCSS, I breathe life into websites, blending captivating visuals with flawless functionality. My relentless pursuit of excellence fuels constant growth, ensuring every project I tackle leaves users in awe.
+<!-- As a frontend developer, I'm passionate about creating visually stunning and seamlessly functional websites. Through my dedication to learning from online resources, I continually work to enhance my skills, always seeking improvement and growth. With each project I undertake, I strive to deliver an exceptional user experience. -->
 
 * 🌍  I'm based in Pakistan.
 * ✉️  Contact me: [fahadshahbaz166@gmail.com](mailto:fahadshahbaz166@gmail.com)
