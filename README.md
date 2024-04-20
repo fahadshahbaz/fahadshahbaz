@@ -18,7 +18,7 @@ As a React.js frontend developer, I specialize in sculpting seamless digital exp
  🤝  I'm open to collaborating on Front-End projects.  <br/>
  ⚡  I'm so bad at sleeping, I can do it with my eyes closed!.  <br/>
 
-### Skills
+## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
@@ -52,7 +52,7 @@ As a React.js frontend developer, I specialize in sculpting seamless digital exp
 </p> -->
 
 
-### Socials
+## Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/fahadshahbaz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>&nbsp;
   <a href="https://twitter.com/fahadshahbaz_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>&nbsp;
@@ -65,7 +65,7 @@ As a React.js frontend developer, I specialize in sculpting seamless digital exp
 <a href="https://www.x.com/fahadshahbaz_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
 </p> -->
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
