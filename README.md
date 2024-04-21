@@ -6,7 +6,7 @@ Hi 👋 I am Fahad
 
 <!-- React JS Developer -->
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=36&pause=2000&color=838E97&random=false&width=685&height=60&lines=Frontend+Developer+%7C+React+JS+enthusiast;Crafting+with+React+JS+expertise)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+React+JS+enthusiast;Crafting+with+React+JS+expertise)](https://git.io/typing-svg)
 -------------------
 
 As a React.js frontend developer, I specialize in sculpting seamless digital experiences. Armed with JavaScript and TailwindCSS, I breathe life into websites, blending captivating visuals with flawless functionality. My relentless pursuit of excellence fuels constant growth, ensuring every project I tackle leaves users in awe.
