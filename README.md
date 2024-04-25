@@ -1,4 +1,4 @@
-![banner - react](https://github.com/fahadshahbaz/fahadshahbaz/assets/139986354/b15de706-98b5-43e0-a051-3439c8eb54b9)
+![github banner](https://github.com/fahadshahbaz/fahadshahbaz/assets/139986354/58367240-7b57-4da6-830c-799b4150c1ef)
 
 Hi 👋 I am Fahad
  Shahbaz
