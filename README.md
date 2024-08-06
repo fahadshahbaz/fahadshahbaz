@@ -1,8 +1,8 @@
 ![github banner](https://github.com/fahadshahbaz/fahadshahbaz/assets/139986354/64303953-803d-4832-9300-0f9fcdd7abd8)
 
 
-Hi 👋 I am Fahad
- Shahbaz
+Hi, I am Fahad
+ Shahbaz👋 
 ==============================
 
 <!-- React JS Developer -->
@@ -13,11 +13,11 @@ Hi 👋 I am Fahad
 As a React.js frontend developer, I specialize in sculpting seamless digital experiences. Armed with JavaScript and TailwindCSS, I breathe life into websites, blending captivating visuals with flawless functionality. My relentless pursuit of excellence fuels constant growth, ensuring every project I tackle leaves users in awe.
 <!-- As a frontend developer, I'm passionate about creating visually stunning and seamlessly functional websites. Through my dedication to learning from online resources, I continually work to enhance my skills, always seeking improvement and growth. With each project I undertake, I strive to deliver an exceptional user experience. -->
 
- 🌍  I'm based in Pakistan. <br/>
+ <!-- 🌍  I'm based in Pakistan. <br/>
  ✉️  Contact me: [fahadshahbaz166@gmail.com](mailto:fahadshahbaz166@gmail.com)  <br/>
  🧠  I'm learning Javascript and React.  <br/>
  🤝  I'm open to collaborating on Front-End projects.  <br/>
- ⚡  I'm so bad at sleeping, I can do it with my eyes closed!.  <br/>
+ ⚡  I'm so bad at sleeping, I can do it with my eyes closed!.  <br/> -->
 
 ## Skills
 <div align="left">
