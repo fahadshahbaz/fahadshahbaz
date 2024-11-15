@@ -9,16 +9,15 @@ Hi, I am Fahad
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+React+JS+enthusiast;Crafting+with+React+JS+expertise)](https://git.io/typing-svg)
 -------------------
-<p align="justify"> Hi there! I'm a React.js frontend developer with a focus on creating clean, functional websites that look great and offer a smooth user experience. I enjoy working with JavaScript/React and TailwindCSS to build intuitive interfaces that help businesses engage their users.
+<p> Hi there! I'm a React.js frontend developer with a focus on creating clean, functional websites that look great and offer a smooth user experience. I enjoy working with JavaScript/React and TailwindCSS to build intuitive interfaces that help businesses engage their users.
 
 For me, it's all about ensuring the design not only looks good but also works efficiently—so users can navigate with ease and businesses can achieve their goals. I’m always improving my skills to stay ahead of the curve and deliver the best results.
 
 If you're looking for a developer who can bring your ideas to life with a website that's both visually appealing and highly functional, let's connect and discuss how I can help with your next project!</p>
- <!-- 🌍  I'm based in Pakistan. <br/>
+ 🌍  I'm based in Pakistan. <br/>
  ✉️  Contact me: [fahadshahbaz166@gmail.com](mailto:fahadshahbaz166@gmail.com)  <br/>
  🧠  I'm learning Javascript and React.  <br/>
  🤝  I'm open to collaborating on Front-End projects.  <br/>
- ⚡  I'm so bad at sleeping, I can do it with my eyes closed!.  <br/> -->
 
 ## Skills
 <div align="left">
@@ -33,6 +32,8 @@ If you're looking for a developer who can bring your ideas to life with a websit
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
