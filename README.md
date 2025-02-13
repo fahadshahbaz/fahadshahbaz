@@ -1,9 +1,9 @@
 ![github banner](https://github.com/fahadshahbaz/fahadshahbaz/assets/139986354/64303953-803d-4832-9300-0f9fcdd7abd8)
 
 
-Hi, I am Fahad
+<!-- Hi, I am Fahad
  Shahbaz👋 
-==============================
+============================== -->
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+React+JS+enthusiast;Crafting+with+React+JS+expertise)](https://git.io/typing-svg)
@@ -13,10 +13,6 @@ Hi, I am Fahad
 For me, it's all about ensuring the design not only looks good but also works efficiently—so users can navigate with ease and businesses can achieve their goals. I’m always improving my skills to stay ahead of the curve and deliver the best results.
 
 If you're looking for a developer who can bring your ideas to life with a website that's both visually appealing and highly functional, let's connect and discuss how I can help with your next project!</p>
- 🌍  I'm based in Pakistan. <br/>
- ✉️  Contact me: [fahadshahbaz166@gmail.com](mailto:fahadshahbaz166@gmail.com)  <br/>
- 🧠  I'm learning Javascript and React.  <br/>
- 🤝  I'm open to collaborating on Front-End projects.  <br/>
 
 ## Skills
 <div align="left">
