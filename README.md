@@ -6,7 +6,7 @@
 ============================== -->
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+React+JS+enthusiast;Crafting+with+React+JS+expertise)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+Next+JS+enthusiast;Crafting+with+Next+JS+expertise)](https://git.io/typing-svg)
 -------------------
 <p> Hi there! I'm a Next.js (React.js) frontend developer with a focus on creating clean, functional websites that look great and offer a smooth user experience. I enjoy working with JavaScript/React and TailwindCSS to build intuitive interfaces that help businesses engage their users.
 
