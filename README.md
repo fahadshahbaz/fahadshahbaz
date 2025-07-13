@@ -1,19 +1,14 @@
-![github banner](https://github.com/fahadshahbaz/fahadshahbaz/assets/139986354/64303953-803d-4832-9300-0f9fcdd7abd8)
-
-
-<!-- Hi, I am Fahad
- Shahbaz👋 
-============================== -->
-
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=38&pause=2000&color=838E97&random=false&width=710&height=60&lines=Frontend+Developer+%7C+Next+JS+enthusiast;Crafting+with+Next+JS+expertise)](https://git.io/typing-svg)
--------------------
-<p> Hi there! I'm a Next.js (React.js) frontend developer with a focus on creating clean, functional websites that look great and offer a smooth user experience. I enjoy working with JavaScript/React and TailwindCSS to build intuitive interfaces that help businesses engage their users.
 
-For me, it's all about ensuring the design not only looks good but also works efficiently—so users can navigate with ease and businesses can achieve their goals. I’m always improving my skills to stay ahead of the curve and deliver the best results.
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-If you're looking for a developer who can bring your ideas to life with a website that's both visually appealing and highly functional, let's connect and discuss how I can help with your next project!</p>
+I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a React.js frontend developer and computer science student based in Pakistan.
 
+I focus on building clean, functional websites that look great and offer a smooth user experience. I love working with JavaScript, React, Next.js, and Tailwind CSS to create fast, intuitive interfaces that help businesses engage their users.
+
+For me, it’s not just about design it’s about building things that work well and solve real problems. I’m always learning and improving to stay ahead and deliver the best results.
+
+<!--
 ## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
@@ -32,10 +27,10 @@ If you're looking for a developer who can bring your ideas to life with a websit
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="redux logo"  />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="50" alt="supabase logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="50" alt="supabase logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="50" alt="appwrite logo"  />
-  <img width="12" /> -->
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="c++ logo"  />
@@ -43,21 +38,14 @@ If you're looking for a developer who can bring your ideas to life with a websit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo"  />
-</div>
+</div> -->
 
-## Socials
+<!-- ## Socials
 <div align="left">
   <a href="https://www.linkedin.com/in/fahadshahbaz" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>&nbsp;
   <a href="https://twitter.com/fahadshahbaz_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>&nbsp;
   <a href="mailto:fahadshahbaz166@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-</div>
-
-<!--## Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fahadshahbaz"><img src="https://github-readme-stats.vercel.app/api?username=fahadshahbaz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="fahadshahbaz's GitHub stats" /></a>
-<a href="http://www.github.com/fahadshahbaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadshahbaz&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br/><br/> -->
+</div> -->
 
 <br/>
 
