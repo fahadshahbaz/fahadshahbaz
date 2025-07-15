@@ -1,6 +1,7 @@
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
+<!-- https://readme-typing-svg.demolab.com/demo/ 
+<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> -->
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! 
 
 I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a React.js frontend developer and computer science student based in Pakistan.
 
