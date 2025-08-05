@@ -3,7 +3,7 @@
 
 ### Hi there! 
 
-I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a Fullstack MERN developer and computer science student based in Pakistan.
+I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a React.js developer and computer science student based in Pakistan.
 
 I focus on building clean, functional websites that look great and offer a smooth user experience. I love working with JavaScript, React and Tailwind CSS to create fast, intuitive interfaces that help businesses engage their users.
 
