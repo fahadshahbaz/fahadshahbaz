@@ -3,9 +3,9 @@
 
 ### Hi there! 
 
-I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a React.js frontend developer and computer science student based in Pakistan.
+I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a Fullstack MERN developer and computer science student based in Pakistan.
 
-I focus on building clean, functional websites that look great and offer a smooth user experience. I love working with JavaScript, React, Next.js, and Tailwind CSS to create fast, intuitive interfaces that help businesses engage their users.
+I focus on building clean, functional websites that look great and offer a smooth user experience. I love working with JavaScript, React and Tailwind CSS to create fast, intuitive interfaces that help businesses engage their users.
 
 For me, it’s not just about design it’s about building things that work well and solve real problems. I’m always learning and improving to stay ahead and deliver the best results.
 
