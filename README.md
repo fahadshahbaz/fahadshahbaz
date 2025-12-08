@@ -2,7 +2,7 @@
 
 ### Hi there!
 I’m [**Fahad Shahbaz**](https://fahadshahbaz.me), a MERN Stack developer and computer science student based in Pakistan.
-I work on building full-stack web applications that are clean, functional, and user-friendly. With MongoDB, Express, React, and Node.js, I create solutions that are fast, reliable, and easy to use.
+I work on building full-stack web applications that are clean, functional, and user-friendly. With MongoDB, Express, React/Next, and Node.js, I create solutions that are fast, reliable, and easy to use.
 For me, it’s not just about writing code, it’s about solving real problems and delivering value. I’m always learning and improving to stay up-to-date and deliver the best results.
 
 
