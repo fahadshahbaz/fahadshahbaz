@@ -9,13 +9,10 @@ I am a developer who focuses on **building** rather than just **coding**. I spec
 
 - **Frontend Engineering**
 `React.js` `Next.js` `Redux Toolkit` `Context API` `Tailwind CSS` `React Router`
-
 - **Backend Infrastructure**
 `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` `Middleware Architecture`
-
 - **Database & Data Management**
 `MongoDB` `Mongoose ORM` `Schema Design` `Aggregation Pipelines`
-
 - **Development Workflow & Environment**
 `Fedora Linux` `Git Version Control` `pnpm` `Postman` `Vercel`
 
