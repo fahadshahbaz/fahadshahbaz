@@ -20,9 +20,6 @@ I am a developer who focuses on **building** rather than just **coding**. I spec
 * **[Omnicraft](https://omnicraft.vercel.app)**: A resource hub for developers and designers.
     * *Goal: Creating a centralized repository to streamline creative workflows.*
 
-[Website](https://fahadshahbaz.dev) • [LinkedIn](https://www.linkedin.com/in/fahadshahbaz)
-
-
 
 
 
