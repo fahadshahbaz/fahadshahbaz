@@ -14,7 +14,7 @@ I am a developer who focuses on **building** rather than just **coding**. I spec
 - **Database & Data Management**
 `MongoDB` `Mongoose ORM` `Schema Design` `Aggregation Pipelines`
 - **Development Workflow & Environment**
-`Fedora Linux` `Git Version Control` `pnpm` `Postman` `Vercel`
+`Fedora Linux` `Git Version Control` `pnpm` `Postman` `Bruno` `Vercel`
 
 ### Current Focus
 * **[Omnicraft](https://omnicraft.vercel.app)**: A resource hub for developers and designers.
