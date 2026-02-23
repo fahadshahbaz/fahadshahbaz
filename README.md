@@ -1,4 +1,4 @@
-## **Full-Stack Engineer (MERN) | Computer Science Student**
+## **Full-Stack Engineer (MERN) | CS 26**
 
 > "It’s not just about writing code, it’s about solving real problems."
 
