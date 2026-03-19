@@ -1,7 +1,5 @@
 ## **Full-Stack Engineer | CS-26**
 
-> "It’s not just about writing code, it’s about solving real problems."
-
 ### About
 I am a developer who focuses on **building** rather than just **coding**. I specialize in creating high-performance web applications using the MERN stack. My workflow is grounded in a Linux environment, prioritizing efficiency and clean architecture.
 
