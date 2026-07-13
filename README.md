@@ -1,18 +1,17 @@
 ## **Fullstack Engineer | CS-26**
 
 ### About
-I am a developer who focuses on **building** rather than just **coding**. I specialize in creating high-performance web applications using the MERN stack. My workflow is grounded in a Linux environment, prioritizing efficiency and clean architecture.
-
+Turning ideas into web applications that real people actually use, powered by the MERN stack. Clean architecture and efficient code come first, every time.
 ### Technical Skills
 
 - **Frontend Engineering**
-`React.js` `Next.js` `Redux Toolkit` `Context API` `Tailwind CSS` `React Router`
+`React.js` `Next.js` `TypeScript` `Redux Toolkit` `Context API` `Tailwind CSS` `React Router`
 - **Backend Infrastructure**
 `Node.js` `Express.js` `RESTful APIs` `JWT Authentication` `Middleware Architecture`
 - **Database & Data Management**
 `MongoDB` `Mongoose ORM` `Schema Design` `Aggregation Pipelines`
 - **Development Workflow & Environment**
-`Cachy Linux` `Git Version Control` `pnpm` `Postman` `Bruno` `Vercel`
+`Cachy Linux` `Git Version Control` `pnpm` `Postman` `Vercel`
 
 
 
