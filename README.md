@@ -1,6 +1,5 @@
 ## **Fullstack Engineer | CS-26**
 
-### About
 Turning ideas into web applications that real people actually use, powered by the MERN stack. Clean architecture and efficient code come first, every time.
 ### Technical Skills
 
